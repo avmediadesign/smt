@@ -1,2 +1,2 @@
 # smt
-maj
+maj2
